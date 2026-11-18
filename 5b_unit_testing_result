@@ -1,0 +1,11 @@
+Script started on 2026-11-18 10:13:56-05:00 [TERM="xterm-color" TTY="/dev/pts/0" COLUMNS="106" LINES="12"]
+[?2004h]0;theia@theia-shravanisal1: /home/project/oaqjp-final-project-emb-ai[01;32mtheia@theia-shravanisal1[00m:[01;34m/home/project/oaqjp-final-project-emb-ai[00m$ [7mpython3 -m unittest test_emotion_detect[m[7mi[m[7mion.py[m[A]0;theia@theia-shravanisal1: /home/project/oaqjp-final-project-emb-ai[01;32mtheia@theia-shravanisal1[00m:[01;34m/home/project/oaqjp-final-project-emb-ai[00m$ python3 -m unittest test_emotion_detection.py
+[?2004l.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.456s
+
+OK
+[?2004h]0;theia@theia-shravanisal1: /home/project/oaqjp-final-project-emb-ai[01;32mtheia@theia-shravanisal1[00m:[01;34m/home/project/oaqjp-final-project-emb-ai[00m$ [Kexit
+[?2004lexit
+
+Script done on 2026-11-18 10:14:15-05:00 [COMMAND_EXIT_CODE="0"]
